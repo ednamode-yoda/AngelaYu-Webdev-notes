@@ -1,0 +1,22 @@
+h1{
+    color: #d4ab3b;
+    font-size: 100px;
+    margin: 20px;
+}
+img{
+    background-color: rgba(60, 53, 28, 0.866);
+    border-radius: 30px;
+    padding: 20px;
+    width: 50%;
+    max-width: 400px;
+    margin: 20px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    overflow:hidden;
+}
+p{
+    color: beige;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
