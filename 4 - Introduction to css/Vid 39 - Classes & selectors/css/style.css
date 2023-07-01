@@ -1,0 +1,27 @@
+h1{
+    color: #d4ab3b;
+    font-size: 100px;
+    margin: 20px;
+}
+img{
+    border-radius: 30px;
+    padding: 20px;
+    width: 50%;
+    max-width: 200px;
+    margin: 20px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+p{
+    color: beige;
+    margin: 0px 20px 0px 20px;
+    max-width: 540px;
+    font-family:'Courier New', Courier, monospace;
+}
+.fastfood{
+    background-color: rgba(38, 66, 22, 0.866);
+}
+.healthy{
+    background-color:rgba(73, 26, 26, 0.693);
+}
