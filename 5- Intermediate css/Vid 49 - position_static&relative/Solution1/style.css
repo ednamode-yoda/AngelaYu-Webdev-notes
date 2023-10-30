@@ -1,0 +1,21 @@
+.blue{
+  background-color:blue;
+  width:100px;
+  height:100px;
+  display:inline-block;
+  margin:0px;
+}
+.yellow{
+  background-color:yellow;
+  width:100px;
+  height:100px;
+  display:inline-block;
+  margin:0px;
+}
+.red{
+  background-color:red;
+  width:100px;
+  height:100px;
+  display:inline-block;
+  margin:0px;
+}
