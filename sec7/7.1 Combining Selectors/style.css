@@ -1,0 +1,22 @@
+/* Write your code here: */
+/* Group selector */
+h1,h2{
+    color: blueviolet;
+}
+/* Child selector = only 1 lvl deep */
+.box>p{
+    color: firebrick;
+}
+/* Desendent selector = only some child at any level */
+.box li{
+    color: darkblue;
+}
+/* Chaining selector = apply where are instances are true */
+/* element#id.class */
+li.done{
+    color: seagreen;
+}
+/* combining selector = parent - specfic child */
+ul p.done{
+    font-size: 0.5rem;
+}
